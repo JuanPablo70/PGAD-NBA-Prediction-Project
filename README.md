@@ -49,7 +49,7 @@
 To download this project, you must run the following command down below.
 
 ```
-https://github.com/JuanPablo70/PGAD-PROJECT.git
+git clone https://github.com/JuanPablo70/PGAD-NBA-Prediction-Project.git
 ```
 
 Open Jupyter Notebook on your computer and open the ```PGAD_Project.ipynb``` file.
